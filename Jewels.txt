@@ -1,0 +1,8 @@
+Gold 100
+Silver 50
+Wood 20
+Dragon_red_flower 30
+iron 30
+Dragom_green_flower 20
+Dragon_blue_flower 10
+Stone 5
